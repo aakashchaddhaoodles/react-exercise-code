@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="countries"
+>
+  <div
+    className="countries__details"
+  >
+    <input
+      onChange={[Function]}
+      placeholder="Enter Country Code ( eg: IN )"
+      type="text"
+      value=""
+    />
+    <div
+      className="coutries__continent__results"
+    >
+      <p>
+         
+      </p>
+    </div>
+  </div>
+  <div
+    className="coutries__continent"
+  >
+    <input
+      onChange={[Function]}
+      placeholder="Enter Continent Code ( eg: EU )"
+      type="text"
+      value=""
+    />
+    <div
+      className="coutries__continent__results"
+    >
+      <p>
+         
+      </p>
+    </div>
+  </div>
+</div>
+`;
